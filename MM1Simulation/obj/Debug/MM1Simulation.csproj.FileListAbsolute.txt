@@ -1,0 +1,7 @@
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\obj\Debug\MM1Simulation.csprojResolveAssemblyReference.cache
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\obj\Debug\MM1Simulation.csproj.CoreCompileInputs.cache
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\bin\Debug\MM1Simulation.exe.config
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\bin\Debug\MM1Simulation.exe
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\bin\Debug\MM1Simulation.pdb
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\obj\Debug\MM1Simulation.exe
+D:\documents\Visual Studio 2017\Projects\MM1Simulation\MM1Simulation\obj\Debug\MM1Simulation.pdb
